@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.json": "json",
+    "__locale": "cpp",
+    "locale": "cpp"
+  }
+}
